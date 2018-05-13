@@ -4,18 +4,17 @@ This is an **'One stop' Readme file** to know the work done in Algorithms by ***
 
 ## Introduction:
 
-Name                :  Jayendhra Shiva
-Branch              :  ICE
-Batch               :  2017-21
-Clubs/Teams already :  Swimming
-inducted into     
-Interested Clubs    :  Spider, RMI
-Interests           :  1. Data mining
-                       2. Artificial Intelligence 
-                       3. Sports: Swimming, Cricket, Football
-Hobbies             :  1. Crafting
-                       2. Listen to Music
-                       3. Play video/mobile games
+Name               						  :  Jayendhra Shiva
+Branch              						:  ICE
+Batch             						  :  2017-21
+Clubs/Teams already inducted to :  Swimming     
+Interested Clubs  						  :  Spider, RMI
+Interests          						  :  1. Data mining
+                       						 2. Artificial Intelligence 
+                      					   3. Sports: Swimming, Cricket, Football
+Hobbies             						:  1. Crafting
+                     						   2. Listen to Music
+                       						 3. Play video/mobile games
                                             
 ## Task 0
 
