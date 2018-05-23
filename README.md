@@ -12,7 +12,7 @@ Interested Clubs  						  :  Spider, RMI
 Interests          						  :    
 1. Data mining                         				
 2. Artificial Intelligence   
-3. Sports: Swimming, Cricket, Football             						:    
+3. Sports: Swimming, Cricket, Football             			 
 4. Crafting    
 5. Listen to Music   
 6. Play video/mobile games    
