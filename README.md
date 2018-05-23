@@ -9,12 +9,14 @@ Branch              						:  ICE
 Batch             						  :  2017-21  
 Clubs/Teams already inducted to :  Swimming      
 Interested Clubs  						  :  Spider, RMI  
-Interests          						  :  1. Data mining  
-                       						 2. Artificial Intelligence   
-                      					   3. Sports: Swimming, Cricket, Football  
-Hobbies             						:  1. Crafting  
-                     						   2. Listen to Music  
-                       						 3. Play video/mobile games  
+Interests          						  :    
+1. Data mining                         				
+2. Artificial Intelligence   
+3. Sports: Swimming, Cricket, Football  
+Hobbies             						:    
+1. Crafting    
+2. Listen to Music   
+3. Play video/mobile games    
                                             
 ## Task 0
 
@@ -25,3 +27,7 @@ d) Again branch-out from the current branch and add a commented line at the star
 e) Now, come back to the previous branch where the sorting.cpp file was created and add a commented line containing your last-name and your roll number and commit it. Eg: //Balaji 106115070  
 f) Merge the new branch with the current branch. You will be having some merge conflicts :p. Fix the conflicts and create a new commit.  
 g) Now merge the current branch with the master branch. Add a tag named “Final” to the last commit and push your code.  
+
+##Task 1
+a) Program on Caesar Cipher.  
+b) Program on working of an elevator.  
