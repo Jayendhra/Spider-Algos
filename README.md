@@ -12,11 +12,10 @@ Interested Clubs  						  :  Spider, RMI
 Interests          						  :    
 1. Data mining                         				
 2. Artificial Intelligence   
-3. Sports: Swimming, Cricket, Football  
-Hobbies             						:    
-1. Crafting    
-2. Listen to Music   
-3. Play video/mobile games    
+3. Sports: Swimming, Cricket, Football             						:    
+4. Crafting    
+5. Listen to Music   
+6. Play video/mobile games    
                                             
 ## Task 0
 
@@ -28,6 +27,6 @@ e) Now, come back to the previous branch where the sorting.cpp file was created 
 f) Merge the new branch with the current branch. You will be having some merge conflicts :p. Fix the conflicts and create a new commit.  
 g) Now merge the current branch with the master branch. Add a tag named “Final” to the last commit and push your code.  
 
-##Task 1
+## Task 1
 a) Program on Caesar Cipher.  
 b) Program on working of an elevator.  
